@@ -1,0 +1,6 @@
+repo: db7ff0cb15d3c8840377c58d22187e1566df1fd5
+node: 390e9827f546ccae8fe5a6ff5466e5efe9c11783
+branch: default
+latesttag: SalishSeaCmd-2.1
+latesttagdistance: 599
+changessincelatesttag: 610
